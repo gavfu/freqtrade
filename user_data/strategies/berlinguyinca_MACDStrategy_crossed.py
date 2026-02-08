@@ -46,7 +46,7 @@ import talib.abstract as ta  # TA-Lib：技术分析指标库
 import freqtrade.vendor.qtpylib.indicators as qtpylib  # freqtrade 内置的指标工具
 
 
-class MACDStrategy_crossed(IStrategy):
+class berlinguyinca_MACDStrategy_crossed(IStrategy):
     """
     MACD 交叉策略
 
